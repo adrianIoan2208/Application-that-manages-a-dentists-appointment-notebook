@@ -2,7 +2,7 @@
 
 This application was built to increase maneuverability over the appointments and to spend less time adding them in the notebook by hand 
 
-# DentistAppoitnments
+                                                     # DentistAppoitnments
 
 There are two main classes, Patient and Appointment. 
 Class Patient manages patients instances so that you can watch/add/update/delete the name, age and other attributes related to different patients.
