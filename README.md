@@ -16,6 +16,13 @@ Try to navigate towards the directory inside which you would like to copy the re
 git init
 git clone git@github.com:adrianIoan2208/DentistAppointments.git
 ```
+After you have done this, follow this steps:
+    
+    
+    -> go to the copied repository 
+    -> enter inside the created folder 
+    -> right click on the project 
+    -> run it into your IDE
 
 ## Contributing
 
