@@ -10,11 +10,12 @@ Examples: IntelliJ Idea, Eclipse, NetBeans, BLUEJ, JDeveloper, etc.
 
 ## Usage
 
-1. Download the ZIP file of the project.
-2. Extract the ZIP file into your computer.
-3. After extracting, open the folder.
-4. Right Click on the DentistAppointments folder and run it as a project into your IDE
-5. Once the IDE opened with your project, try to run the application and see the magic happening.
+Try to navigate towards the directory inside which you would like to copy the repository and after insert this commands inside your terminal
+
+```bash
+git init
+git clone git@github.com:adrianIoan2208/DentistAppointments.git
+```
 
 ## Contributing
 
